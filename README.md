@@ -10,7 +10,9 @@ but with my comments i added for understanding
 
 ## credits
 [Gocker - Docker in Go](https://github.com/p8952/bocker)
+
 [Bocker - Docker with bash script](https://github.com/p8952/bocker)
+
 i'm unable to find the rust verion of this now, due to lot of repos with same name,
 but a lot of the code here is mostly a shrinked version of this. i'll update when i find the link.
 [Rocker](TODO)
